@@ -1,3 +1,5 @@
+<?php
+
 class Deck{
 	var $Cards;
 	var $CardImageDir;

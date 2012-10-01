@@ -6,6 +6,7 @@
 //Div 13 to get the suit of a card
 
 require("class.Deck.php");
+require("class.Poker.php");
 
 $MyDeck = new Deck();
 $MyDeck->Deal(5);
