@@ -14,7 +14,6 @@ $Hand = $MyDeck->GetHand();
 
 if($_POST['deal']){
 	echo"<pre>";
-	print_r($_POST);
 }
 
 ?>
@@ -38,5 +37,4 @@ if($_POST['deal']){
 
 
 
-print_r($Hand);
 
