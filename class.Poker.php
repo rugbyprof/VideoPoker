@@ -1,6 +1,6 @@
 <?php
 
-class Poker{
+class Poker extends Deck{
 
 
 	function __construct(){
